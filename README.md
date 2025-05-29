@@ -35,6 +35,7 @@ Before running this application, make sure you have the following installed:
 
 ## 🛠 Project Structure
 
+```
 
 MarkWebApp/
 ├── src/
@@ -61,6 +62,7 @@ MarkWebApp/
 ├── WEB-INF/
 │   └── web.xml
 └── README.md
+```
 
 
 ## 🗄 Database Setup
