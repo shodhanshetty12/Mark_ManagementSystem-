@@ -139,46 +139,64 @@ http://localhost:8080/MarkWebApp/
 
 ## 🖼 Screenshots
 
-### 🏠 Home Page
+## 🏠 Home Page
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/home.png" alt="Home Page" width="700"/>
 
-### ➕ Add Marks Page
+---
+
+## ➕ Add Marks Page
+
+### Adding
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/add1.png" alt="Add Marks Page" width="700"/>
-## After adding
+
+### After adding
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/add2.png" alt="Add Marks Page" width="700"/>
 
+---
 
-### 🔍 View Students Mark
+## 🔍 View Students Mark
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/view.png" alt="Search Student" width="700"/>
 
-### ❌ Delete Details
-## Performing Deletion
+---
+
+## ❌ Delete Details
+
+### Performing Deletion
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/del.png" alt="Search Student" width="700"/>
-## After Deleting
+
+### After Deleting
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/afdel.png" alt="Search Student" width="700"/>
 
+---
 
-### 🆕 Update Details
-## Before Update
+## 🆕 Update Details
+
+### Before Update
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/befup.png" alt="Search Student" width="700"/>
 
-## Updating
+---
+
+### Updating
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/update.png" alt="Search Student" width="700"/>
 
-## After Update
+### After Update
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/afup.png" alt="Search Student" width="700"/>
 
-### 📋 Generating Report
-## By Mark
+---
+
+## 📋 Generating Report
+
+### By Mark
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/repbymark.png" alt="Display Marks" width="700"/>
 
-## By Rank
+### By Rank
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/repbyrank.png" alt="Display Marks" width="700"/>
 
 ## By Subject
 <img src="https://github.com/shodhanshetty12/Mark_ManagementSystem-/blob/main/Mark_Managment/Demo_Screenshots/repbysub.png" alt="Display Marks" width="700"/>
 
 
+---
 
 ## 🎯 Usage Application
 
