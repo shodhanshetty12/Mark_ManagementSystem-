@@ -88,7 +88,6 @@ CREATE TABLE IF NOT EXISTS StudentMarks (
 ```
 
 ### 3. Insert Sample Data
-<pre>
 sql
 ```
 
@@ -99,7 +98,6 @@ INSERT INTO StudentMarks VALUES
 (1004, 'Shreyas', 'Biology', 89, '2025-04-10'),
 (1005, 'Shashank', 'Computer Science', 95, '2025-04-18');
 ```
-</pre>
 
 ## ⚙ Installation & Setup
 
@@ -111,11 +109,14 @@ Download all the project files and organize them according to the project struct
 2. Run the database setup scripts provided above
 3. Update database credentials in MarkDAO.java:
    java
+   ```
+
    connection = DriverManager.getConnection(
        "jdbc:mysql://localhost:3306/mark_management", 
        "your_username", 
        "your_password");
-   
+   ```
+
 
 ### Step 3: Add MySQL JDBC Driver
 1. Download MySQL Connector/J from the official MySQL website
@@ -130,8 +131,10 @@ Download all the project files and organize them according to the project struct
 
 ### Step 5: Access the Application
 Open your web browser and navigate to:
+```
 
 http://localhost:8080/MarkWebApp/
+```
 
 
 ## 🖼 Screenshots
