@@ -69,6 +69,8 @@ MarkWebApp/
 
 ### 1. Create Database
 sql
+```
+
 CREATE DATABASE IF NOT EXISTS mark_management;
 USE mark_management;
 
@@ -83,16 +85,21 @@ CREATE TABLE IF NOT EXISTS StudentMarks (
     ExamDate DATE NOT NULL
 );
 
+```
 
 ### 3. Insert Sample Data
+<pre>
 sql
+```
+
 INSERT INTO StudentMarks VALUES 
 (1001, 'Sodhan', 'Mathematics', 85, '2025-04-10'),
 (1002, 'Sumanth', 'Physics', 92, '2025-04-12'),
 (1003, 'Suraj', 'Chemistry', 78, '2025-04-15'),
 (1004, 'Shreyas', 'Biology', 89, '2025-04-10'),
 (1005, 'Shashank', 'Computer Science', 95, '2025-04-18');
-
+```
+</pre>
 
 ## ⚙ Installation & Setup
 
